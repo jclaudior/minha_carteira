@@ -1,4 +1,5 @@
-export default {
+// eslint-disable-next-line
+export default { 
     title: 'ligth',
 
     color: {
